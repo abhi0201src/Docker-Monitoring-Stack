@@ -1,4 +1,3 @@
-# Docker-Monitoring-Stack
 # Grafana, Prometheus & Node Exporter Monitoring Stack (Docker)
 
 A ready-to-deploy monitoring stack with:
